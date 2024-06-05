@@ -1,5 +1,6 @@
-x=5
-y=7
-z=12
+x = 5
+y = 7
+z = 12
 
-print(x+y*z)
+print(x + y * z)
+print(y)
