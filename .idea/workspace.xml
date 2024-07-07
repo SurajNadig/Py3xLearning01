@@ -4,29 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0882961-9826-4737-b40d-66614ea8947e" name="Changes" comment="5 June changes">
-      <change afterPath="$PROJECT_DIR$/Tasks/Traingle classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab10-Scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab11-FinF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab12-ListFucntions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab5-Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab7-Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Functions/Lab9-Scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Lists/Lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Lists/Lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Lists/Lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Tuple-sample/Lab1.py" afterDir="false" />
+    <list default="true" id="b0882961-9826-4737-b40d-66614ea8947e" name="Changes" comment="3 June 2024">
+      <change afterPath="$PROJECT_DIR$/practice/Decorators/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Decorators/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Decorators/Real_time_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dictionary/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dictionary/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dictionary/Lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dictionary/Lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Filters/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Filters/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Filters/Map&amp;Filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Filters/Map&amp;Filters2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Abstraction/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Abstraction/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab3-Constuctor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab5-Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab6-Cacl-Constuctor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab8-RealWorldExp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Class and Objects/Lab8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Encapsulation/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Encapsulation/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Encapsulation/Lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Encapsulation/Lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Encapsulation/Lab5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Inheritence/Lab1-SingleLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Inheritence/Lab2-Heirarchial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Inheritence/Lab3-Multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Inheritence/Lab4-Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Inheritence/Lab5-HybridLevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Inheritence/Lab6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Lab1-Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Lab2-BriefPoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Polymorphism/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/OOPS/Polymorphism/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Recursion/Lab1 - factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Recursion/Lab2-Sum_Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Recursion/Lab3-SumDigits_Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Set/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Set/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Set/Lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Set/Lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Set/Lab5-Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Tuple/Lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Tuple/Lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Tuple/Lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Tuple/Lab4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/Task1_5June.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Sqaure and cube.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks/Task2_5June.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Compare2num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/03062024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Lists/Lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Lists/Lab3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +101,28 @@
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab005.executor": "Run",
+    "Python.Lab1 (1).executor": "Run",
     "Python.Lab1.executor": "Run",
     "Python.Lab10Scope.executor": "Run",
     "Python.Lab11FinF.executor": "Run",
     "Python.Lab12-ListFucntions.executor": "Run",
     "Python.Lab13.executor": "Run",
     "Python.Lab2.executor": "Run",
+    "Python.Lab3-Constuctor.executor": "Run",
+    "Python.Lab3-SumDigits_Recursion.executor": "Run",
     "Python.Lab3.executor": "Run",
+    "Python.Lab4-Multiple.executor": "Run",
     "Python.Lab4.executor": "Run",
+    "Python.Lab5-Calculator.executor": "Run",
+    "Python.Lab5-Pass.executor": "Run",
     "Python.Lab5.executor": "Run",
     "Python.Lab5Args.executor": "Run",
+    "Python.Lab6-Cacl-Constuctor.executor": "Run",
     "Python.Lab6.executor": "Run",
     "Python.Lab7Dict.executor": "Run",
     "Python.Lab8.executor": "Run",
     "Python.Lab9Scope.executor": "Run",
+    "Python.Real_time_Example.executor": "Run",
     "Python.Sqaure and cube.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
@@ -94,7 +132,7 @@
     "Python.sample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RunManager">
@@ -142,6 +180,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab1 - factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Suraj\Pythonprojects\Py3xLearning\practice\Recursion\Lab1 - factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Decorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Decorators/Lab1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lab2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearning" />
       <option name="ENV_FILES" value="" />
@@ -166,6 +248,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab1 - factorial" />
+        <item itemvalue="Python.Lab1" />
         <item itemvalue="Python.Lab2" />
         <item itemvalue="Python.Lab002" />
         <item itemvalue="Python.Lab005" />
@@ -236,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718131196546</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3 June 2024">
+      <option name="closed" value="true" />
+      <created>1719990154926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719990154926</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +346,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="commit lab002" />
     <MESSAGE value="5 June changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 June changes" />
+    <MESSAGE value="3 June 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 June 2024" />
   </component>
 </project>
