@@ -1,5 +1,5 @@
 Suraj_details2 = \
-    {"name": "Suraj",
+    {"name": "Suraj.txt",
      "90": 34.34,
      "isMale": True,
      "Address": "KA"

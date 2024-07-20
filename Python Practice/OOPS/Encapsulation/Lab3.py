@@ -15,7 +15,7 @@ class VWOLogin:
 
 # This is end of class
 
-page1 = VWOLogin("abc@gmail.com", 123, "Suraj")
+page1 = VWOLogin("abc@gmail.com", 123, "Suraj.txt")
 print(page1.name)  # name is public so it will be executed
 # print(page1.__email) #_email is private so it will not be executed
 page1.login_confirm()

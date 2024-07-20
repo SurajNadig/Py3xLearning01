@@ -1,6 +1,6 @@
 class myclass():
     def __init__(self):
-        self.name = "Suraj"
+        self.name = "Suraj.txt"
         self.__address = "Jayanagar"
 
     def public_func(self):  # Public

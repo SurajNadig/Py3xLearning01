@@ -1,12 +1,12 @@
 # Dict
 # Key and Value
-# name -> "Suraj"
+# name -> "Suraj.txt"
 
 # A dictionary is an unordered collection of data
 # in a key-value pair format.
 
 my_dict2 = {
-    "name": "Suraj",
+    "name": "Suraj.txt",
     "age" : 23 ,
     "address" : "Mysuru"
 }

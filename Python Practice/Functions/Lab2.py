@@ -1,7 +1,7 @@
 # def hai(name): # No Return Type and with Argument
 #     print("Hello", name)
 #
-# hai("Suraj")
+# hai("Suraj.txt")
 # hai("Naga")
 # ----------------------------------------------------------------------------------
 
