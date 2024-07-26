@@ -1,0 +1,153 @@
+// // Javascript - Overview
+
+// // console.log("Hello Wolrd, JS");
+// // // ; is optional in JS
+// // console.log("Without the semi colon")
+
+// // console.log(2+2)
+// // console.log(2-2)
+// // console.log(2*2)
+// // console.log(2/2)
+
+// // // This is comment JS
+// // var age = 65;
+// // console.log(age)
+// // console.log(age*2)
+
+// // var name = "Pramod"; // String
+// // var age = 31; // Integer
+// // var isMarried = true; // Boolean
+
+// // var age = 45
+// // age = age +1
+// // console.log(age)
+
+
+
+// // var xObject = {}; // Python Dict - key vale
+// // xObject = {
+// //   name : "Pramod",
+// //   age : 99
+// // }
+// // console.log(xObject.name)
+// // // console.log(xObject["name"])
+// // console.log(xObject.age)
+
+
+// // JSON-  {
+// //       "name" : "Pramod",
+// //       "age" : 31
+// //  };
+
+// //  Python Dic t= JSON = js object = Hashmap (kv) in Java, C#, rUBY - json kv, 
+
+
+// // var a = 10;
+// // var b = 5;
+// // var c = a+b;
+// // console.log(c);
+
+// // console.log(10<10);
+// // console.log(10>10);
+// // console.log(10==10);
+
+
+// // var a = 10;
+
+// // if(a >= 10){
+// //  console.log("A >= 10")
+// // }
+// // else{
+// //   console.log("A < 10")
+// // }
+
+// // var x = 4;
+// // switch(x){
+// //   case 1:
+// //     console.log("Mon");
+// //     break;
+// //   case 2:
+// //     console.log("Tue");
+// //     break;
+// //   case 3:
+// //     console.log("Wd");
+// //     break;
+// //   case 4:
+// //     console.log("Thur");
+// //     break;
+// //   case 5:
+// //     console.log("Fri");
+// //     break;  
+// //   case 6:
+// //     console.log("Sat");
+// //     break;
+// //  case 7:
+// //     console.log("Sun");
+// //     break;
+// //  default:
+// //     console.log("I don't know which day it is")
+// //     break;
+// // }
+
+
+// // // range()
+// // for (var i = 1; i <= 5; i++) {
+// //   console.log(i);
+// // }
+
+
+// // Functions - # to do a job - logic which ca performa task. 
+// // Define -> call
+
+
+// // Define
+// function greet(){
+//   console.log("Hi, How are you?")
+// }
+
+// // Calling 
+// greet()
+
+
+// function doSomething(a){
+//   console.log(a*2)
+// }
+
+// doSomething(10)
+
+
+// function sumOfTwo(a,b){
+//   return a+b
+// }
+
+
+// var result = sumOfTwo(3,4)
+// console.log(result)
+
+
+// JSON -> JS Object
+
+var response = '{"name" : "Pramod","age" : 30,"cars" : ["Audi","BMW","I10"]}';
+var parseResponseJS = JSON.parse(response)
+console.log(parseResponseJS["name"])
+console.log(parseResponseJS["age"])
+
+
+// JS Object -> JSON
+var jsObject = {
+  name : "Amit",
+  age : 89
+}
+
+var JSONStr = JSON.stringify(jsObject)
+console.log(JSONStr)
+
+
+var xArray = ["apple","organe","bananana"]
+console.log(xArray[0])
+console.log(xArray[1])
+
+
+// Python - Dict -> JSON |  JSON -< Dict
+// JS - JSONM ->JS OBject   |   JSON -> JS OBject
+// JAVA - Hashmap / Class -> JSON |  JSON -> hashmap / Class
